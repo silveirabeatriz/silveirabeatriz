@@ -1,7 +1,6 @@
 ### Hi there 👋 Welcome to my Github profile.
-### My name is Beatriz Silveira and Im a Software Engineering Student.
+My name is Beatriz Silveira and Im a Software Engineering Student.
 
-- 🔭 I’m currently working on the design Neon Bank
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💬 Ask me about ...
 - 📫 How to reach me: 
