@@ -6,7 +6,7 @@ Looking for an internship opportunity to put into practice the theoretical knowl
 
 
 - 🌎 I'm from Brazil and I live in Germany.
-- 🌱 I’m currently learning HTML, CSS, JavaScript.
+- 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 🍀 I want to learn: React
 
 - 📫 How to reach me: 
