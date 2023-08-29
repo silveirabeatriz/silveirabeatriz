@@ -3,7 +3,7 @@ Software Engineering Student | Frontend Development
 
 Brazilian professional living in Germany, curious and courageous to change country and face different professional challenges. In January 2015, I made the bold decision to relocate to Germany from Brazil looking for more opportunities to grow and learn.
 
-Driven by a profound interest in technology and communication, I discovered my enthusiasm for web development. With experience in creation, design and marketing and motivation to contribute to Frontend or Full Stack Development. I'm looking forward to dive deeper in Programming and Development and learn more from experienced professionals. I'm prepared for and mostly interested in working in a remote setting.
+Driven by a profound interest in technology and communication, I discovered my enthusiasm for web development. With experience in creation, design and marketing and motivation to contribute to Frontend or Full Stack Development. I'm looking forward to dive deeper in Programming and Development and learn more from experienced professionals.
 
 - 🌎 I'm from Brazil and I live in Germany.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
