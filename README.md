@@ -15,6 +15,8 @@ Driven by a profound interest in technology and communication, I discovered my e
 <a href = "mailto:beatrizsvra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<br>
+
  <div>
    <a href="https://github.com/silveirabeatriz">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silveirabeatriz&layout=compact&langs_count=6&theme=tokyonight"/>
