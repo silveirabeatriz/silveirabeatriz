@@ -1,13 +1,13 @@
 ### Hi there 👋 Welcome to my Github profile.
 Software Engineering Student | Frontend Development
 
-Brazilian professional living in Germany, curious and courageous to change country and face different professional challenges. In January 2015, I made the bold decision to relocate to Germany from Brazil looking for more opportunities to grow and learn.
+Brazilian professional living in Germany, successfully completed my first internship, where I worked for 5 months with TypeScript and React. I am curious and courageous, having made the decision to relocate to Germany from Brazil in January 2015, seeking more opportunities to grow and learn.
 
-Driven by a profound interest in technology and communication, I discovered my enthusiasm for web development. With experience in creation, design and marketing and motivation to contribute to Frontend or Full Stack Development. I'm looking forward to dive deeper in Programming and Development and learn more from experienced professionals.
+Driven by a profound interest in technology and communication, I discovered my enthusiasm for web development. With experience in creation, design, and marketing, coupled with the motivation to contribute to Frontend or Full Stack Development, I am eager to dive deeper into Programming and Development and learn more from experienced professionals.
 
 - 🌎 I'm from Brazil and I live in Germany.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 🍀 I want to learn: React
+- 🌱 I’m currently learning HTML, CSS, JavaScript and React.
+- 🍀 I want to learn: TypeScript.
 
 - 📫 How to reach me: 
 <div>
