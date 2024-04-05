@@ -6,7 +6,7 @@ Brazilian professional living in Germany, successfully completed my first intern
 Driven by a profound interest in technology and communication, I discovered my enthusiasm for web development. With experience in creation, design, and marketing, coupled with the motivation to contribute to Frontend or Full Stack Development, I am eager to dive deeper into Programming and Development and learn more from experienced professionals.
 
 - 🌎 I'm from Brazil and I live in Germany.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and React.
+- 🌱 I’m currently learning JavaScript and React.
 - 🍀 I want to learn: TypeScript.
 
 - 📫 How to reach me: 
