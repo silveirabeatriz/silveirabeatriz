@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome to my Github profile.
-Software Engineering Student | Frontend Development
+Software Engineer
 
 Brazilian professional living in Germany, successfully completed my first internship, where I worked for 5 months with TypeScript and React. I am curious and courageous, having made the decision to relocate to Germany from Brazil in January 2015, seeking more opportunities to grow and learn.
 
