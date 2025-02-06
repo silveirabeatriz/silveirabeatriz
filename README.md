@@ -1,9 +1,11 @@
 ### Hi there 👋 Welcome to my Github profile.
 Software Engineer
 
-Brazilian professional living in Germany, successfully completed my first internship, where I worked for 5 months with TypeScript and React. I am curious and courageous, having made the decision to relocate to Germany from Brazil in January 2015, seeking more opportunities to grow and learn.
+I am a dedicated and adaptable professional with a strong passion for technology, communication and innovation. As I approach the final semester of my Bachelor's degree in Software Engineering, I bring over three years of diverse experience in data management, web development and business development across various industries.
 
-Driven by a profound interest in technology and communication, I discovered my enthusiasm for web development. With experience in creation, design, and marketing, coupled with the motivation to contribute to Frontend or Full Stack Development, I am eager to dive deeper into Programming and Development and learn more from experienced professionals.
+I have successfully completed two frontend web development internships, where I collaborated within Agile teams to design and implement features that enhance user experiences, using tools such as Webflow, Figma, JavaScript, TypeScript and React. 
+
+Currently, I am looking for opportunities to further expand my technical knowledge, grow and learn from experienced professionals, while making meaningful contributions to innovative projects.
 
 - 🌎 I'm from Brazil and I live in Germany.
 - 🌱 I’m currently learning Kotlin
