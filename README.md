@@ -8,7 +8,6 @@ I have successfully completed two frontend web development internships, where I 
 Currently, I am looking for opportunities to further expand my technical knowledge, grow and learn from experienced professionals, while making meaningful contributions to innovative projects.
 
 - 🌎 I'm from Brazil and I live in Germany.
-- 🌱 I’m currently learning Kotlin
 
 - 📫 How to reach me: 
 <div>
